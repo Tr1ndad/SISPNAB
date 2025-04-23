@@ -70,7 +70,7 @@ Desenvolver um portal de transparência de informações sobre o fomento da Pol�
 **3 de abril de 2025**
 
 ---
-📌 UI Design
+##📌 UI Design
 
 O Guia de Estilo do Observatório Cultural do PNAB PR define a identidade visual e os padrões de interface do portal. Seu objetivo é garantir consistência, clareza e acessibilidade.
 
