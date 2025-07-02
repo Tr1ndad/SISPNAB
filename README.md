@@ -1,4 +1,4 @@
-# 🎭 Observatório Cultural do PNAB PR
+# 🎭 SISPNAB - Sistema de informação e transparência PNAB
 
 ## 📌 Objetivo Geral
 
@@ -73,7 +73,7 @@ Desenvolver um portal de transparência de informações sobre o fomento da Pol�
 
 ## 🎨 UI Design
 
-O **Guia de Estilo do Observatório Cultural do PNAB PR** define a identidade visual e os padrões de interface do portal. Seu objetivo é garantir consistência, clareza e acessibilidade.
+O **Guia de Estilo do SISPNAB - Sistema de informação e transparência PNAB** define a identidade visual e os padrões de interface do portal. Seu objetivo é garantir consistência, clareza e acessibilidade.
 
 **Componentes Principais:**  
 **Paleta de Cores:** Azul escuro e claro, verde suave, tons de cinza e branco, com foco em contraste e legibilidade.  
